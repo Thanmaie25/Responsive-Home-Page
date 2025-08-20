@@ -1,18 +1,41 @@
-# Responsive Loading Homepage
+# 🏠 Real Estate Responsive Loading Page
 
-A simple and responsive loading homepage built with **HTML** and **CSS**.  
-The page displays an image, and options that are available to that page.
-Options are like Home, about us and login/ signup which doesn't redirect to another page.
+A **responsive real estate website landing page** built with **HTML, CSS, and JavaScript**.  
+The page includes a smooth loading animation and essential sections like Home, About, Projects, Contact, Login, and Register.  
 
-# 🚀 Features
-- Fully responsive design  
-- Smooth CSS animation  
-- Minimal and clean style  
+## 🚀 Features
+- Responsive design (desktop, tablet, mobile)  
+- Animated loading screen  
+- Navigation bar with smooth scrolling  
+- Sections:  
+  - 🏡 Home  
+  - ℹ️ About  
+  - 🏗️ Projects  
+  - 📞 Contact  
+  - 🔑 Login  
+  - 📝 Register  
+- Modern UI with clean styling  
+
+## 📂 How to Run
+1. Clone this repository.
+2. Open index.html in your browser.
+
+
+🛠️ Technologies Used
+
+HTML5 – Structure & layout
+
+CSS3 – Styling & responsiveness
+
+JavaScript (ES6) – Loading animation and interactivity
+
+📱 Responsive
+
+Works seamlessly on desktop, tablet, and mobile screens.
+
+🖼️ Preview
 
 
 
+https://github.com/user-attachments/assets/59ec23d1-18fb-463f-89d4-0e6fd63406c4
 
-
-
-
-![Screenshot (240)](https://github.com/user-attachments/assets/d68205b7-b5cf-4d8a-9ac4-6966716c0a95)
